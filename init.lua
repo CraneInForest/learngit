@@ -109,6 +109,5 @@ end
 
 
 log.debug('1')
-log.debug('31')
 
 xpcall(main, oops, ...)
