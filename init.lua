@@ -108,5 +108,5 @@ local function main(...)
 end
 
 log.debug('1')
-
+log.debug('3')
 xpcall(main, oops, ...)
