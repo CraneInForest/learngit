@@ -108,6 +108,6 @@ local function main(...)
 end
 
 
-log.debug('1')
+log.debug('2')
 
 xpcall(main, oops, ...)
