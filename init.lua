@@ -110,4 +110,4 @@ end
 
 log.debug('3')
 
-xpcall(main3, oops, ...)
+xpcall(main4, oops, ...)
